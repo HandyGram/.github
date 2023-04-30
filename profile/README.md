@@ -5,7 +5,7 @@ A Telegram client for your watch with Wear OS.
 
 ## How to use? What is that?
 
-You can check all info in [app repository's README](https://github.com/HandyGram/app).
+You can check all info in [app repository's README](https://github.com/HandyGram/HandyGram).
 
 ## Used tools
 * [Flutter](https://flutter.dev)
