@@ -12,3 +12,7 @@ You can check all info in [app repository's README](https://github.com/HandyGram
 * HandyGram's core - slightly modified [tdlib package](https://pub.dev/packages/tdlib)
 * StackOverflow answers :D
 * all [other plugins](https://github.com/HandyGram/app/blob/master/pubspec.yaml#L13) used in the app
+
+## Developer's POV
+![Reddit meme](https://i.redd.it/tsxtxwf1q01b1.jpg)
+*[source](https://www.reddit.com/r/ProgrammerHumor/comments/13mq5bi/i_just_need_to_finish_this_project)*
