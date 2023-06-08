@@ -7,6 +7,10 @@ A Telegram client for your watch with Wear OS.
 
 You can check all info in [app repository's README](https://github.com/HandyGram/HandyGram).
 
+## Roadmap
+
+You can see actual project roadmap on [Trello board](https://trello.com/b/5T8IAtb5/roadmap)
+
 ## Used tools
 * [Flutter](https://flutter.dev)
 * HandyGram's core - slightly modified [tdlib package](https://pub.dev/packages/tdlib)
